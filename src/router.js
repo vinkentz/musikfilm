@@ -6,7 +6,7 @@ import Film from './views/Film.vue'
 import DetailsMusik from './views/DetailsMusik.vue'
 import DetailsFilm from './views/DetailsFilm.vue'
 import DetailsSeniman from './views/DetailsSeniman.vue'
-import Search from './views/Search.vue'
+// import Search from './views/Search.vue'
 import Visualisasi from './views/Visualisasi.vue'
 import Seniman from './views/Seniman.vue'
 import DetailsPengarangMusik from './views/DetailsPengarangMusik.vue'
@@ -47,11 +47,11 @@ export default new Router({
       name: 'detailsSeniman',
       component: DetailsSeniman
     },
-    {
-      path: '/search',
-      name: 'search',
-      component: Search
-    },
+    // {
+    //   path: '/search',
+    //   name: 'search',
+    //   component: Search
+    // },
     {
       path: '/visualisasi',
       name: 'visualisasi',
