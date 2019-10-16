@@ -24,7 +24,7 @@
     </table>
     <table class="table" v-else>
       <br><br><br><br>
-      <h1 class="text-center">PILIH SALAH SATU PROVINSI UNTUK MENAMPILKAN MUSIK TRADISIONAL </h1>
+      <h1 class="text-center">PILIH SALAH SATU PROVINSI UNTUK MENAMPILKAN LAGU TRADISIONAL </h1>
     </table>
 
     <br><br><br><br><br><br>
