@@ -18,7 +18,7 @@
       </router-link>
 
       <router-link to="/musik">
-        <a class="nav-item nav-link">Musik</a>
+        <a class="nav-item nav-link">Lagu</a>
       </router-link>
 
       <router-link to="/film">
