@@ -3,7 +3,7 @@
 
     <br>
 
-    <h1 class="text-center">Musik Tradisional & Film Indonesia</h1>
+    <h1 class="text-center">Lagu Tradisional & Film Indonesia</h1>
 
     <br><br><br><br>
 
@@ -30,7 +30,7 @@
     <hr>
 
     <div class="">
-      <h4>Musik Tradisional</h4>
+      <h4>Lagu Tradisional</h4>
       <span v-for="(i, index) in dbpedia_musik" :key="index">
         <p v-if="i.comment" v-html="i.comment.value"></p>
         <p v-if="i.link"><strong>Sumber: </strong> <a :href="i.link.value">{{i.link.value}}</a></p>
