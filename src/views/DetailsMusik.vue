@@ -1,7 +1,7 @@
 <template lang="html">
   <div class="container">
     <br>
-    <h5>Home>Musik>DetailMusik</h5>
+    <h5>Home>Lagu>DetailLagu</h5>
     <br>
 
     <h1 class="text-center">{{$route.params.id}}</h1>
